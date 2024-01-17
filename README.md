@@ -38,7 +38,7 @@ Calculated mean, median, mode, variance, standard deviation, and correlations be
 1. What was the probability of survival for a child? P(Survived=true | Age<16)
 2. What was the probability of survival for a woman? P(Survived= true | Sex=female)
 3. What was the probability of survival for a man? P(Survived= true | Sex=male)
-
+4. What was the probability of survival for a particular gender based on the class?
 
 
 
